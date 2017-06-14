@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/com/ata/member/conn/ConnectionUtils.java=UTF-8
+encoding//src/com/ata/member/conn/MySQLConnUtils.java=UTF-8
+encoding//src/com/ata/member/filter/CookieFilter.java=UTF-8
+encoding//src/com/ata/member/filter/JDBCFilter.java=UTF-8
+encoding//src/com/ata/member/servlet/DeleteMemberServlet.java=UTF-8
+encoding//src/com/ata/member/servlet/DoCreateMemberServlet.java=UTF-8
+encoding//src/com/ata/member/servlet/DoEditMemberServlet.java=UTF-8
+encoding//src/com/ata/member/servlet/DoLoginServlet.java=UTF-8
+encoding//src/com/ata/member/servlet/EditMemberServlet.java=UTF-8
+encoding//src/com/ata/member/servlet/HomeServlet.java=UTF-8
+encoding//src/com/ata/member/servlet/LoginServlet.java=UTF-8
+encoding//src/com/ata/member/servlet/MemberListServlet.java=UTF-8
+encoding//src/com/ata/member/servlet/UserInfoServlet.java=UTF-8
+encoding//src/com/ata/member/utils/MyUtils.java=UTF-8
